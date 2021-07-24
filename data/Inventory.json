@@ -1,0 +1,46 @@
+{
+	"Rice" :
+		[
+			{
+				"Name"			: "Jasmine",
+				"Weight"		: 15,
+				"PriceperKG"  : 55 												
+			},
+			{
+				"Name"			: "Arborio",
+				"Weight"		: 10,
+				"PriceperKG"  : 60 												
+			}		
+		],
+		
+	"Pulses" :
+		[
+			{
+				"Name"			: "Lentils",
+				"Weight"		: 25,
+				"PriceperKG"  : 45
+			},
+			{
+				"Name"			: "Chickpeas",
+				"Weight"		: 30,
+				"PriceperKG"  : 70
+			}
+		],
+
+    "Wheat" :
+		[
+			
+			{
+				"Name"			: "Durum",
+				"Weight"		: 20,
+				"PriceperKG"  : 40
+			},
+			{
+				"Name"			: "Texas",
+				"Weight"		: 22,
+				"PriceperKG"  : 83
+			}	
+			
+		]
+
+}
